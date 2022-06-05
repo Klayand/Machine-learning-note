@@ -1,0 +1,236 @@
+1.
+batch_size : 2
+learning_rate:1e-3
+model_size:32 64
+total_epochs:150
+weight_decay:1e-4
+
+outcome:  best_loss:1.2223 scores: 1.01388 public score:1.00735    (pass strong line)
+
+2.
+batch_size : 4
+learning_rate:1e-3
+model_size:32 64
+total_epochs:150
+weight_decay:1e-4
+
+outcome:  best_loss:1.02380484 scores: 1.00012 public score:0.97228    (pass strong line)-->approaching boss
+
+3.
+batch_size : 4
+learning_rate:1e-3
+model_size:32 64
+total_epochs:200
+weight_decay:1e-4
+
+outcome:  best_loss:1.0252348859277036 scores: 1.02930 public score:1.00532    (pass strong line)-->approaching boss
+
+4.
+batch_size : 6
+learning_rate:1e-3
+model_size:32 64
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:0.9054258967439334 scores: 0.97652 public score:0.95194   (pass strong line)-->approaching boss
+
+5.
+batch_size : 4
+learning_rate:1e-3
+model_size:32 64
+total_epochs:120
+weight_decay:1e-4
+
+outcome:  best_loss:best = 0.9527941727803813 
+
+6.
+batch_size : 4
+learning_rate:1e-3
+model_size:32 64
+total_epochs:130
+weight_decay:1e-4
+
+outcome:  best_loss:best = 1.0381804888861046
+
+batch_size : 8
+learning_rate:1e-3
+model_size:32 64
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:best = 1.0213834455455928
+
+7.
+batch_size : 6
+learning_rate:1e-3
+model_size:32 64
+total_epochs:125
+weight_decay:1e-3
+
+outcome:  best_loss:1.0556389047867722 
+
+8.
+batch_size : 6
+learning_rate:1e-3
+model_size:64 128
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.2171425613678164
+
+9.
+batch_size : 7
+learning_rate:1e-3
+model_size:32 64
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:0.9931556304486898  scores: 1.00231 public score:0.97985  (pass strong line)-->approaching boss
+
+10.
+batch_size : 8
+learning_rate:1e-3
+model_size:32 64
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.097793714965091  scores:  0.98732 public score:1.00080  (pass strong line)-->approaching boss
+
+11.
+batch_size : 6
+learning_rate:0.5*1e-3
+model_size:32 64
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:0.911962375541528 scores: 1.13641 public score:1.08282   (pass strong line)-->approaching boss
+
+12.
+batch_size : 6
+learning_rate:0.5*1e-4
+model_size:32 64
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.310981937828991 scores:  2.42538 public score:2.22310
+
+13.
+batch_size : 6
+learning_rate:1e-3
+model_size:20 64
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:0.9998778641223908 scores: 0.95099 public score:0.97246   (pass strong line)-->approaching boss
+
+
+14.
+batch_size : 6
+learning_rate:1e-3
+model_size:20 128
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.0446241812573538 scores: 1.01996 public score1.00676   (pass strong line)-->approaching boss
+
+15.
+batch_size : 6
+learning_rate:1e-3
+model_size:12 20
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.0335280295875338 scores: 0.95049 public score0.96843  (pass strong line)-->approaching boss
+
+
+16.
+batch_size : 6
+learning_rate:1e-3
+model_size:20 96
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.0438756797462703 scores: 0.97642 public score0.96262  (pass strong line)-->approaching boss
+
+
+17.
+batch_size : 6
+learning_rate:1e-3
+model_size:10 20
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.211412313166592 scores: 0.96120 public score0.94140  (pass strong line)-->approaching boss
+
+
+18.
+batch_size : 6
+learning_rate:1e-3
+model_size:6 12
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.041187553604444 scores: 0.97658 public score0.93909  (pass strong line)-->approaching boss
+
+19.
+batch_size : 6
+learning_rate:1e-3
+model_size:20
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:0.9868843480530712 scores:0.97747 public score0.97382  (pass strong line)-->approaching boss
+
+20.
+batch_size : 6
+learning_rate:1e-3
+model_size:64
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.0094714828663403 scores:0.95400 public score0.94988  (pass strong line)-->approaching boss
+
+21.
+batch_size : 6
+learning_rate:1e-3
+model_size:128
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.0800111682050757 scores:1.00081 public score 1.00542 (pass strong line)-->approaching boss
+
+22.(best)
+batch_size : 6
+learning_rate:1e-3
+model_size:48
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:0.8879325047135354 scores:0.94586 public score 0.91538 (pass strong line)-->approaching boss
+
+23.
+batch_size : 6
+learning_rate:1e-3
+model_size:45
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss=1.1908018226424852 scores: 1.00059 public score 0.99846 (pass strong line)-->approaching boss
+
+24.
+batch_size : 6
+learning_rate:1e-3
+model_size:50
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss=1.0551121986574596 scores: 0.96526 public score  0.94193 (pass strong line)-->approaching boss
+
+25.
+batch_size : 5
+learning_rate:1e-3
+model_size:48
+total_epochs:125
+weight_decay:1e-4
+
+outcome:  best_loss:1.0143525198101997 scores:1.02703 public score 1.01767 (pass strong line)-->approaching boss
